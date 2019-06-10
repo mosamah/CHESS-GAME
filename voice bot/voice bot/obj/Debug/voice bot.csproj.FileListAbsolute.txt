@@ -1,0 +1,19 @@
+c:\users\mosama\documents\visual studio 2012\Projects\voice bot\voice bot\bin\Debug\voice bot.exe.config
+c:\users\mosama\documents\visual studio 2012\Projects\voice bot\voice bot\bin\Debug\voice bot.exe
+c:\users\mosama\documents\visual studio 2012\Projects\voice bot\voice bot\bin\Debug\voice bot.pdb
+c:\users\mosama\documents\visual studio 2012\Projects\voice bot\voice bot\obj\Debug\voice bot.csprojResolveAssemblyReference.cache
+c:\users\mosama\documents\visual studio 2012\Projects\voice bot\voice bot\obj\Debug\voice_bot.Form1.resources
+c:\users\mosama\documents\visual studio 2012\Projects\voice bot\voice bot\obj\Debug\voice_bot.Properties.Resources.resources
+c:\users\mosama\documents\visual studio 2012\Projects\voice bot\voice bot\obj\Debug\voice bot.csproj.GenerateResource.Cache
+c:\users\mosama\documents\visual studio 2012\Projects\voice bot\voice bot\obj\Debug\voice bot.exe
+c:\users\mosama\documents\visual studio 2012\Projects\voice bot\voice bot\obj\Debug\voice bot.pdb
+C:\Users\mosama\Desktop\game\voice bot\voice bot\bin\Debug\voice bot.exe.config
+C:\Users\mosama\Desktop\game\voice bot\voice bot\bin\Debug\voice bot.exe
+C:\Users\mosama\Desktop\game\voice bot\voice bot\bin\Debug\voice bot.pdb
+C:\Users\mosama\Desktop\game\voice bot\voice bot\obj\Debug\voice bot.csprojResolveAssemblyReference.cache
+C:\Users\mosama\Desktop\game\voice bot\voice bot\obj\Debug\voice_bot.Form1.resources
+C:\Users\mosama\Desktop\game\voice bot\voice bot\obj\Debug\voice_bot.Properties.Resources.resources
+C:\Users\mosama\Desktop\game\voice bot\voice bot\obj\Debug\voice bot.csproj.GenerateResource.cache
+C:\Users\mosama\Desktop\game\voice bot\voice bot\obj\Debug\voice bot.csproj.CoreCompileInputs.cache
+C:\Users\mosama\Desktop\game\voice bot\voice bot\obj\Debug\voice bot.exe
+C:\Users\mosama\Desktop\game\voice bot\voice bot\obj\Debug\voice bot.pdb

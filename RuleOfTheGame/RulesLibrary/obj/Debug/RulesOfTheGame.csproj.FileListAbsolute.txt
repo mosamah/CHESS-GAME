@@ -1,0 +1,18 @@
+C:\Users\DELL\Desktop\Spring 2018\MI\Project\RuleOfTheGame\ClassLibrary5\obj\Debug\RulesOfTheGame.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Spring 2018\MI\Project\RuleOfTheGame\ClassLibrary5\obj\Debug\RulesOfTheGame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Spring 2018\MI\Project\RuleOfTheGame\ClassLibrary5\bin\Debug\ClassLibrary5.dll
+C:\Users\DELL\Desktop\Spring 2018\MI\Project\RuleOfTheGame\ClassLibrary5\bin\Debug\ClassLibrary5.pdb
+C:\Users\DELL\Desktop\Spring 2018\MI\Project\RuleOfTheGame\ClassLibrary5\obj\Debug\ClassLibrary5.dll
+C:\Users\DELL\Desktop\Spring 2018\MI\Project\RuleOfTheGame\ClassLibrary5\obj\Debug\ClassLibrary5.pdb
+C:\Users\DELL\Desktop\Spring 2018\MI\Project\RuleOfTheGame\RulesLibrary\bin\Debug\ClassLibrary5.dll
+C:\Users\DELL\Desktop\Spring 2018\MI\Project\RuleOfTheGame\RulesLibrary\bin\Debug\ClassLibrary5.pdb
+C:\Users\DELL\Desktop\Spring 2018\MI\Project\RuleOfTheGame\RulesLibrary\obj\Debug\RulesOfTheGame.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Spring 2018\MI\Project\RuleOfTheGame\RulesLibrary\obj\Debug\RulesOfTheGame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Spring 2018\MI\Project\RuleOfTheGame\RulesLibrary\obj\Debug\ClassLibrary5.dll
+C:\Users\DELL\Desktop\Spring 2018\MI\Project\RuleOfTheGame\RulesLibrary\obj\Debug\ClassLibrary5.pdb
+C:\Users\mosama\Desktop\game\RuleOfTheGame\RulesLibrary\bin\Debug\ClassLibrary5.dll
+C:\Users\mosama\Desktop\game\RuleOfTheGame\RulesLibrary\bin\Debug\ClassLibrary5.pdb
+C:\Users\mosama\Desktop\game\RuleOfTheGame\RulesLibrary\obj\Debug\RulesOfTheGame.csprojResolveAssemblyReference.cache
+C:\Users\mosama\Desktop\game\RuleOfTheGame\RulesLibrary\obj\Debug\RulesOfTheGame.csproj.CoreCompileInputs.cache
+C:\Users\mosama\Desktop\game\RuleOfTheGame\RulesLibrary\obj\Debug\ClassLibrary5.dll
+C:\Users\mosama\Desktop\game\RuleOfTheGame\RulesLibrary\obj\Debug\ClassLibrary5.pdb

@@ -1,0 +1,14 @@
+C:\Users\mosama\source\repos\Promotion\Promotion\bin\Debug\Promotion.exe.config
+C:\Users\mosama\source\repos\Promotion\Promotion\bin\Debug\Promotion.exe
+C:\Users\mosama\source\repos\Promotion\Promotion\bin\Debug\Promotion.pdb
+C:\Users\mosama\source\repos\Promotion\Promotion\obj\Debug\Promotion.csprojResolveAssemblyReference.cache
+C:\Users\mosama\source\repos\Promotion\Promotion\obj\Debug\Promotion.csproj.CoreCompileInputs.cache
+C:\Users\mosama\source\repos\Promotion\Promotion\obj\Debug\Promotion.exe
+C:\Users\mosama\source\repos\Promotion\Promotion\obj\Debug\Promotion.pdb
+C:\Users\mosama\Desktop\game\Promotion\Promotion\bin\Debug\Promotion.exe.config
+C:\Users\mosama\Desktop\game\Promotion\Promotion\bin\Debug\Promotion.exe
+C:\Users\mosama\Desktop\game\Promotion\Promotion\bin\Debug\Promotion.pdb
+C:\Users\mosama\Desktop\game\Promotion\Promotion\obj\Debug\Promotion.csprojResolveAssemblyReference.cache
+C:\Users\mosama\Desktop\game\Promotion\Promotion\obj\Debug\Promotion.csproj.CoreCompileInputs.cache
+C:\Users\mosama\Desktop\game\Promotion\Promotion\obj\Debug\Promotion.exe
+C:\Users\mosama\Desktop\game\Promotion\Promotion\obj\Debug\Promotion.pdb
